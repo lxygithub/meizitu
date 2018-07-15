@@ -6,5 +6,5 @@ import os
 import requests
 
 
-for i in range(20)
-    print()
+for i in range(20):
+    print(i)
